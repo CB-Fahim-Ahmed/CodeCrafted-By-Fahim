@@ -12,16 +12,16 @@
 
 * Please take a look at my work, and feel free to share your feedback to help me improve further on this journey.
 
-<a href="mailto:ankit.loma@gmail.com">
+<a href="https://mail.google.com/mail/u/0/#inbox">
   <img src="https://img.shields.io/badge/Gmail-Fahim-yellow.svg?style=for-the-badge&logo=gmail&logoColor=white" 
   style="border-radius: 12px;">
 </a>
-<a href="mailto:ankit.loma@gmail.com">
+<a href="https://www.linkedin.com/in/fahim-ahmed-a3b843339/">
   <img src="https://img.shields.io/badge/Linkedin-Fahim-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
   style="border-radius: 12px;">
 </a>
 <a href="mailto:ankit.loma@gmail.com">
-  <img src="https://img.shields.io/badge/twitter-Fahim-purple.svg?style=for-the-badge&logo=x&logoColor=white" 
+  <img src="https://img.shields.io/badge/website-Fahim-purple.svg?style=for-the-badge&logo=chromewebstore&logoColor=white" 
   style="border-radius: 12px;">
 </a>
 
