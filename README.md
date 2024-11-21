@@ -34,7 +34,9 @@ A user-friendly application to check weather updates based on your location.
 - **Features:**  
   - Live temperature and weather conditions.  
   - Modern and intuitive UI.  
-  - Integrated with a weather API for accurate data.  
+  - Integrated with a weather API for accurate data.
+    
+### [Download Now](https://example.com/my-file.zip)
 
 ---
 
