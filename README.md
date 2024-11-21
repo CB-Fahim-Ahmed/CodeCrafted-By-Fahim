@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Linkedin-Fahim-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
   style="border-radius: 12px;">
 </a>
-<a href="mailto:ankit.loma@gmail.com">
+<a href="https://cb-fahim-ahmed.github.io/">
   <img src="https://img.shields.io/badge/website-Fahim-purple.svg?style=for-the-badge&logo=chromewebstore&logoColor=white" 
   style="border-radius: 12px;">
 </a>
