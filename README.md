@@ -28,7 +28,7 @@
 # My Projects
 All my projects are presented in a list format, reflecting the continuous progress of my app development journey.
 
-## 1. [QuizVerse BD](https://github.com/yourusername/QuizVerse BD)  
+## 1. [QuizVerse_BD](https://github.com/yourusername/QuizVerse_BD)  
 🌦️ **Real-Time Weather Forecast App**  
 A user-friendly application to check weather updates based on your location.  
 - **Features:**  
