@@ -28,16 +28,17 @@
 # My Projects
 All my projects are presented in a list format, reflecting the continuous progress of my app development journey.
 
-## 1. [QuizVerse_BD](https://github.com/yourusername/QuizVerse_BD)  
-🌦️ **Real-Time Weather Forecast App**  
-A user-friendly application to check weather updates based on your location.  
+## 1. QuizVerse BD
+🧠 **Quiz App**  
+A Quiz App Learn and Earn.  
 - **Features:**  
   - Live temperature and weather conditions.  
   - Modern and intuitive UI.  
   - Integrated with a weather API for accurate data.
     
-[![Get it on Google Play](https://freepngimg.com/thumb/download_now_button/25399-6-download-now-button.png)](https://github.com/CB-Fahim-Ahmed/CodeCrafted-By-Fahim/blob/main/APK'S/ExamBangla.apk)
+<a href="https://github.com/CB-Fahim-Ahmed/CodeCrafted-By-Fahim/blob/main/APK'S/QuizVerse_BD.apk">
+  <img src="https://freepngimg.com/download/download_now_button/25402-4-small-download-now-button-red.png?semt=ais_hybrid" alt="Download Now" style="height: 50px; width: 200px;"/>
 
----
+</a>
 
 Feel free to explore these projects and share your feedback to help me improve further! 😊
