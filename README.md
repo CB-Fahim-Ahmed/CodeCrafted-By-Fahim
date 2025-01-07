@@ -38,7 +38,6 @@ A Quiz App Learn and Earn.
     
 <a href="https://github.com/CB-Fahim-Ahmed/CodeCrafted-By-Fahim/blob/main/APK'S/QuizVerse_BD.apk">
   <img src="https://freepngimg.com/download/download_now_button/25402-4-small-download-now-button-red.png?semt=ais_hybrid" alt="Download Now" style="height: 50px; width: 200px;"/>
-
 </a>
 
 Feel free to explore these projects and share your feedback to help me improve further! 😊
