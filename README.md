@@ -33,7 +33,8 @@ All my projects are presented in a list format, reflecting the continuous progre
 A Quiz App Learn and Earn. 
 - **Images:**
 
-<img src="IMG/QuizVerseBDHome.png" alt="Download Now" width="100" /><img src="IMG/QuizVerseBDLeaderBoard.png" alt="Download Now" width="100" /><img src="IMG/QuizVerseBDSetting.png" alt="Download Now" width="100" /><img src="IMG/QuizVerseBDQuiz.png" alt="Download Now" width="100" /><img src="IMG/QuizVerseBDScore.png" alt="Download Now" width="100" /><img src="IMG/QuizVerseBDPayment.png" alt="Download Now" width="100" /> 
+<img src="IMG/QuizVerseBDHome.png" alt="Download Now" width="200" /><img src="IMG/QuizVerseBDLeaderBoard.png" alt="Download Now" width="200" /><img src="IMG/QuizVerseBDSetting.png" alt="Download Now" width="200" />
+<img src="IMG/QuizVerseBDQuiz.png" alt="Download Now" width="200" /><img src="IMG/QuizVerseBDScore.png" alt="Download Now" width="200" /><img src="IMG/QuizVerseBDPayment.png" alt="Download Now" width="200" /> 
 
 - **Features:**  
    - Amazing Bangla Quiz
