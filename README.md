@@ -30,11 +30,13 @@ All my projects are presented in a list format, reflecting the continuous progre
 
 ## 1. QuizVerse BD
 🧠 **Quiz App**  
-A Quiz App Learn and Earn.  
+A Quiz App Learn and Earn. 
+- **Images:**
+
 - **Features:**  
-  - Live temperature and weather conditions.  
-  - Modern and intuitive UI.  
-  - Integrated with a weather API for accurate data.
+   - Amazing Bangla Quiz
+   - LeaderBard System
+   - Payment System
     
 <a href="https://github.com/CB-Fahim-Ahmed/CodeCrafted-By-Fahim/blob/main/APK'S/QuizVerse_BD.apk">
   <img src="https://freepngimg.com/download/download_now_button/25402-4-small-download-now-button-red.png?semt=ais_hybrid" alt="Download Now" style="height: 50px; width: 200px;"/>
