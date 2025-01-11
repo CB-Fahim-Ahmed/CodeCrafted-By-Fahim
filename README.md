@@ -34,6 +34,7 @@ A Quiz App Learn and Earn.
 - **Images:**
 
 <img src="IMG/QuizVerseBDHome.png" alt="Download Now" width="200" /><img src="IMG/QuizVerseBDLeaderBoard.png" alt="Download Now" width="200" /><img src="IMG/QuizVerseBDSetting.png" alt="Download Now" width="200" />
+
 <img src="IMG/QuizVerseBDQuiz.png" alt="Download Now" width="200" /><img src="IMG/QuizVerseBDScore.png" alt="Download Now" width="200" /><img src="IMG/QuizVerseBDPayment.png" alt="Download Now" width="200" /> 
 
 - **Features:**  
