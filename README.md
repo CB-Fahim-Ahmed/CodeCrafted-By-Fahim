@@ -32,13 +32,14 @@ All my projects are presented in a list format, reflecting the continuous progre
 🧠 **Quiz App**  
 A Quiz App Learn and Earn. 
 - **Images:**
+<img src="IMG/QuizVerseBDHome.png" alt="Download Now" width="200" /> 
 
 - **Features:**  
    - Amazing Bangla Quiz
    - LeaderBard System
    - Payment System
     
-<a href="https://github.com/CB-Fahim-Ahmed/CodeCrafted-By-Fahim/blob/main/APK'S/QuizVerse_BD.apk">
+<a href="APK/QuizVerse_BD.apk">
   <img src="https://freepngimg.com/download/download_now_button/25402-4-small-download-now-button-red.png?semt=ais_hybrid" alt="Download Now" style="height: 50px; width: 200px;"/>
 </a>
 
