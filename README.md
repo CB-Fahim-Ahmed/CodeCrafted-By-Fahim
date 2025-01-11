@@ -28,7 +28,7 @@
 # My Projects
 All my projects are presented in a list format, reflecting the continuous progress of my app development journey.
 
-## 1. <img src="IMG/QuizVerseBD-Logo.png" alt="Download Now" width="20" /> QuizVerse BD
+## 1. <img src="IMG/QuizVerseBD-Logo.png" alt="Download Now" width="50" /> QuizVerse BD
 🧠 **Quiz App**  
 A Quiz App Learn and Earn. 
 - **Images:**
