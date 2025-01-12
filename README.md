@@ -82,4 +82,4 @@ A Quiz App Learn and Earn.
 
 # 🏕️ Localized App
 
-Feel free to explore these projects and share your feedback to help me improve further! 😊
+### Feel free to explore these projects and share your feedback to help me improve further! 😊
