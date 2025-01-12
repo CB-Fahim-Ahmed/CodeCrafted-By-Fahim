@@ -31,10 +31,10 @@ All my projects are presented in a list format, reflecting the continuous progre
 ## 📌 Menu
 - ## [All](#all)
 - ## [Utility App's](#-utility-app)
-- ## [Educational App's](#educational-app)
-- ## [Game App's](#game-app)
-- ## [Social or Communication App's](#all)
-- ## [Localized App's](#all)
+- ## [Educational App's](#-educational-app)
+- ## [Game App's](#-game-app)
+- ## [Social or Communication App's](#-social-or-communication-app)
+- ## [Localized App's](#-localized-app)
 
 # 🏷️ All
 ## 1.QuizVerse BD
